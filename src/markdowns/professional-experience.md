@@ -5,6 +5,7 @@
 
 Led the technical directions of a customer facing product with a team of 13 multi-location engineers.
 
+<<<<<<< 7a7dbdd3bf0edcaaef9b861f7faea13f84243758
 - **Designed and architected solutions** from product features, testing framework to continuous deployment pipeline, and system monitoring. Main languages used are `Java`, `Scala`, `JavaScript`, `HTML` and `CSS`
 - **Reviewed design and code** for changes made by other team members and provided guidance to ensure good practices are followed.
 - **Initiated directions** to improve and optimize the stability and efficiency of the system. E.g. Improved sandbox setup using `docker`, `feature testing` over `junit` test, and keep compliant with the latest company infrastructure.
@@ -12,6 +13,18 @@ Led the technical directions of a customer facing product with a team of 13 mult
 - **Support live-site issues** on a AWS cloud backed stack by investigating through the `statsd` and `collectd` metrics and `splunk` logs, and by collaborating with other teams for any network/infrastructure related issues.
 - **Coached and evangelized engineers** from within and outside of the team to practice Read-By-Refactoring skill to improve Expedia wide code quality.
 - Designed, coded and support **2 tools for Expedia wide engineering team**. They are a `NodeJs` tool to monitor metrics of company standard application and a `Java` library to manage external API services like Hystrix.
+=======
+- Built and led a successful team of Developers and Technical Project Manager who owned the complete Product & Tech Stack and **reliably delivered according to Product's expectations**.
+- Lead the engineering team to generate a projected **$70M+ of Gross Profit** in 2016.
+- **Doubled team's size** by on-boarding new team members in two new remote locations in less than two months while minimizing the impact on sprint velocity and deliverables.
+- Helped deliver the [official Expedia Alexa Skill](https://www.expedia.com/alexa) under a tight deadline as a side project. The project was developed using `node`, `AWS lambda`, `Dynamo DB` and `Amazon Alexa SDK`
+- Overcame the **challenges of leading a distributed team across 4 locations in 3 distant timezones** and adjusted the team's processes for optimal performance in this remote configuration.
+- **Hired new team members in a competitive market** satisfying the given timeframe.
+- **Mentored and coached team members**, empowering them to take decisions and to continuously improve themselves through data and feedback, and worked through performance issues with team members when needed.
+- Laid out the **technical vision for the product**, liaise and collaborate with other teams.
+- **Ensured quality** is built-in and automated in the code and pipeline.
+- **Wrote code**, paired coded, performed code reviews and helped debug issues. Main languages I am fluent in are `JavaScript`, `Java`, `HTML` and `CSS`.
+>>>>>>> update resume
 
 ### **Software Engineer II** at **Expedia** in Seattle, Oct 2008 - Mar 2015
 ####
