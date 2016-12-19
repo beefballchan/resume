@@ -9,7 +9,7 @@ Led the technical directions of a customer facing product with a team of 13 mult
 - **Reviewed design and code** for changes made by other team members and provided guidance to ensure good practices are followed.
 - **Initiated directions** to improve and optimize the stability and efficiency of the system. E.g. Improved sandbox setup using `docker`, `feature testing` over `junit` test, and keep compliant with the latest company infrastructure.
 - **Coached and mentored team members** to be engineers with ownership, confidence and autonomous. **Empowered members** by sharing knowledges and allowing rooms for mistakes.
-- **Support live-site issues** on a AWS cloud backed stack by investigating through the `statsd` and `collectd` metrics and `splunk` logs, and by collaborating with other teams for any network/infrastructure related issues.
+- **Support live-site issues** on a `AWS` cloud backed stack by investigating through the `statsd` and `collectd` metrics and `splunk` logs, and by collaborating with other teams for any network/infrastructure related issues.
 - **Coached and evangelized engineers** from within and outside of the team to practice Read-By-Refactoring skill to improve Expedia wide code quality.
 - Designed, coded and support **2 tools for Expedia wide engineering team**. They are a `NodeJs` tool to monitor metrics of company standard application and a `Java` library to manage external API services like Hystrix.
 
@@ -37,7 +37,7 @@ Developed test tools for Microsoft Exchange in `C#`
 
 Developed a web prototype that integrates with Adobe Bridge.
 
-- Developed object oriented javascript classes to handle client interaction and to integrate with the callback functions.
+- Developed object oriented `javascript` classes to handle client interaction and to integrate with the callback functions.
 - Altered the existing website to incorporate the scripts developed above.
 
 ### **Web Master** at **Northland Services** in Seattle, Mar 2006 - May 2007
@@ -46,7 +46,7 @@ Developed a web prototype that integrates with Adobe Bridge.
 Designed, developed and supported 3-tier external company website and internal web applications.
 
 - Created mockup to illustrate the workflow of an internal website.
-- Designed and developed data layer in SQL and business logic in ADO.NET and C#.
+- Designed and developed data layer in `SQL` and business logic in ADO.NET and C#.
 - Rebuilt the company website by developing web pages using `HTML`, `CSS`, `ASP.NET`, `XML`, and `JavaScript`.
 
 ### **IT Analyst** at **Weyerhaeuser** in Seattle, Jun 2003 - Mar 2006
@@ -54,5 +54,5 @@ Designed, developed and supported 3-tier external company website and internal w
 
 Stewarded 5 web applications by providing support to production issues and developing enhancements.
 
-- Developed data layer in SQL and business logic in a `COM+` component.
+- Developed data layer in `SQL` and business logic in a `COM+` component.
 - Developed web pages using `ASP`, `HTML`, `CSS` and `VBScript`.

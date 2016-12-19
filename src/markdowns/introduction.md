@@ -1,1 +1,1 @@
-A **jack-of-all-trades** experienced in **full stack development** in her quest for an empowering, risk-embracing, and open-minded team. 
+A pragmatic, highly-motivated and eager-to-grow **jack-of-all-trades** experienced in **full stack development** in her quest for an empowering, risk-embracing, and open-minded team. Started out with a decently paid programming job, transformed through working in an inspiring team, and eventually discovered and grew my passion into crafting solutions through software.
