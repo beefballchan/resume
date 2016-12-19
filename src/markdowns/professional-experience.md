@@ -1,68 +1,58 @@
 ## Professional Experience
 
-### **Engineering Manager** at **Expedia** in San Francisco, Jul 2015 - present
-#### Expedia is one of the world's largest Online Travel Agent (OTA)
+### **Senior Software Engineer** at **Expedia** in Seattle, Mar 2015 - present
+#### Expedia is the world's largest Online Travel Agent (OTA).
 
-Having hands-on technical skills in this managerial position helped me to scale and lead an energetic team of engineers who owned the whole stack and deployed to production daily following `Continuous Deployment` practices.
+Led the technical directions of a customer facing product with a team of 13 multi-location engineers.
 
-- Built and led a successful team of Developers and Technical Project Manager who owned the complete Product & Tech Stack and **reliably delivered according to Product's expectations**.
-- **Doubled team's size** by on-boarding new team members in two new remote locations in less than two months while minimizing the impact on sprint velocity and deliverables.
-- Overcame the **challenges of leading a distributed team across 4 locations in 3 distant timezones** and adjusted the team's processes for optimal performance in this remote configuration.
-- **Hired new team members in a competitive market** satisfying the given timeframe.
-- **Mentored and coached team members**, empowering them to take decisions and to continuously improve themselves through data and feedback, and worked through performance issues with team members when needed.
-- Laid out the **technical vision for the product**, liaise and collaborate with other teams.
-- **Ensured quality** is built-in and automated in the code and pipeline.
-- **Wrote code**, pair coding, perform code reviews and help debug issues. Main languages used are `JavaScript`, `Java`, `HTML` and `CSS`.
+- **Designed and architected solutions** from product features, testing framework to continuous deployment pipeline, and system monitoring. Main languages used are `Java`, `Scala`, `JavaScript`, `HTML` and `CSS`
+- **Reviewed design and code** for changes made by other team members and provided guidance to ensure good practices are followed.
+- **Initiated directions** to improve and optimize the stability and efficiency of the system. E.g. Improved sandbox setup using `docker`, `feature testing` over `junit` test, and keep compliant with the latest company infrastructure.
+- **Coached and mentored team members** to be engineers with ownership, confidence and autonomous. **Empowered members** by sharing knowledges and allowing rooms for mistakes.
+- **Support live-site issues** on a AWS cloud backed stack by investigating through the `statsd` and `collectd` metrics and `splunk` logs, and by collaborating with other teams for any network/infrastructure related issues.
+- **Coached and evangelized engineers** from within and outside of the team to practice Read-By-Refactoring skill to improve Expedia wide code quality.
+- Designed, coded and support **2 tools for Expedia wide engineering team**. They are a `NodeJs` tool to monitor metrics of company standard application and a `Java` library to manage external API services like Hystrix.
 
-### **Tech Lead / Technical Project Manager** at **Expedia** in San Francisco, Oct 2014 - Jul 2015
+### **Software Engineer II** at **Expedia** in Seattle, Oct 2008 - Mar 2015
 ####
 
-First role with **people manager responsibilities** in a small team of engineers where we owned the whole product.
+Worked in 3 different teams over 6+ years to earn a broad experience to solve different types of problems in different domains.
 
-- Led the effort to **scale the system to serve x5 more requests with the same team**.
-- Performed as **main project point person** and liaison with other teams and Product stakeholders.
-- Assumed the de-facto role of a **Technical Project Manager** / Delivery Manager and perfected the team's *semi-kanban* process.
-- **Hired**, on-boarded and mentored new team members.
-- Headed **front-end development** in the team, using mainly `vanilla JS`, `LESS/CSS`, `HTML` and `node`.
-- **Estimated** new feature effort levels and worked with Product on Backlog planning/grooming.
+- Developed and shipped **high-traffic and highly-available products** including an ads management system, e-commerce website [AirAsiaGo](https://www.airasiago.com) and tens of product features in all Expedia websites.
+- **Developed, tested and shipped** cross-browser, responsive, retina-ready features and modules built with `HTML5`, `JavaScript` - `jQuery`, etc - `CSS3 (LESS)`, `SVG`, `sprites`, etc. on top of a `Spring (Java)` back-end.
+- Built and support deployment pipeline to deploy the stack to the `AWS` cloud using `cloud formation template` and `chef` script.
+- Migrated and support a company wide **ad serving system** from `doubleClick` to `google ads` platform.
 
-### **Front-end Engineer** at **Expedia** in Singapore, Oct 2012 - Oct 2014
-####
+### **Contract Software Engineer in Test** at **Microsoft** in Seattle, Aug 2007 - Aug 2008
+#### Microsoft is the world's leading producer of computer software.
 
-Main front-end developer of a fully-responsive, high-traffic, highly-available e-commerce website: [AirAsiaGo](https://www.airasiago.com). Used `Kanban` & `Continuous Deployment` methodologies and followed `Clean Code` practices.
+Developed test tools for Microsoft Exchange in `C#`
 
-- **Developed, tested and shipped** cross-browser, responsive, retina-ready features and modules built with `HTML5`, `JavaScript` - `jQuery`, `Backbone`, `AngularJS` etc - `CSS3 (LESS)`, `SVG`, `sprites`, etc. on top of a `Spring (Java)` back-end.
-- **Led the team's front-end vision and development**. Evangelize best practices by mentoring team mates.
-- Interacted with UI Design team, providing constant feedback on the difficulty/feasibility of the planned features.
-- **Optimized** page load-time and SEO ranking through minification, caching, selective loading, changes in front-end architecture, usage of subdomain-per-asset CDNs, sprite and image compression, etc.
-- Identified, debugged and fixed **live-site issues** within hours (`Splunk`, `Nagios`, `AWS monitoring`, `Google Analytics`, etc.).
+- Converted existing test cases to use the newly implemented test user framework.
+- Owned a topology by keeping the topology up-to-date.
+- Fixed bugs found in the automation tests for the current milestone.
 
-### **Sr. Web Developer & Tech Lead** at **Optimum Solutions (Standard Chartered Bank)** in Singapore, Jan - Oct 2012
-#### Optimum Solutions is a Singaporean mid-size IT consultant company. SCB is a global bank with branches in 70 countries over 80,000 employees
+### **Contract Software Engineer** at **Getty Images** in Seattle, May 2007 - Aug 2007
+#### Getty Images is a stock photo agency with 80 million still images.
 
-Worked on the RMWB (Relation Manager WorkBench) project for Standard Chartered Bank. Our responsibility was to develop and ship the front-end of the application the corporate customers would use.
+Developed a web prototype that integrates with Adobe Bridge.
 
-- **Integrated an already existing web application** from a third-party vendor following given designs and using `HTML`, `CSS`, `JavaScript` and `JSPs` into the RMWB portal which also grouped information from CreditMate and MicroStrategy Systems in a web-based interface. Developed web services to expose data from the backend with `Spring` (Java).
-- **Conducted technical interviews** for Web Developer and Web Designer roles.
-- **Drove implementation**, Quality Control, bug tracking and feature planning for the project.
-- Undertook the role of **point of contact** between the Business and tech team.
+- Developed object oriented javascript classes to handle client interaction and to integrate with the callback functions.
+- Altered the existing website to incorporate the scripts developed above.
 
+### **Web Master** at **Northland Services** in Seattle, Mar 2006 - May 2007
+#### Northland Services is a container shipment company with ~100 employees.
 
-### **Analyst** at **BBVA** in Madrid, Sep 2010 - Dec 2011
-#### BBVA is the second-largest Spanish bank with more than 100,00 employees around the world
+Designed, developed and supported 3-tier external company website and internal web applications.
 
-Worked on the *Mentor* project at Wholesale Banking & Asset Management, Global Risk Unit. Mentor was a web-based project to integrate, unify, organize and report all the unit’s risk data from diverse systems with different data outputs.
+- Created mockup to illustrate the workflow of an internal website.
+- Designed and developed data layer in SQL and business logic in ADO.NET and C#.
+- Rebuilt the company website by developing web pages using `HTML`, `CSS`, `ASP.NET`, `XML`, and `JavaScript`.
 
-- Helped **design and code the project's foundations** from scratch (Maven config files, project file structure, initial setup).
-- **Developed a complex parser** for a legacy system output (Algorithmics) making exhaustive use of Regular Expressions to translate the output to comprehensive, coherent JPA models.
-- **Designed and implemented a web-based user-facing interface** with `JSP`, `HTML` and `JavaScript` (`jQuery`, `Ajax`, async plugin loading).
-- Spearheaded **front-end development** and ensured best practices were followed.
-- Drove meetings with Business stakeholders to gather requirements and design new features.
+### **IT Analyst** at **Weyerhaeuser** in Seattle, Jun 2003 - Mar 2006
+#### Weyerhaeuser is one of the world's largest private owners of timberlands.
 
-### **Developer** at **Safelayer Secure Communications** in Barcelona, Feb 2009 - Sep 2010
-#### Safelayer is an IT security company with ~50 workers
+Stewarded 5 web applications by providing support to production issues and developing enhancements.
 
-**Invented, designed and implemented** a proof of concept of *gOTP*, a novel two-factor authentication system which combined the robustness of One Time Passwords and the easily-remembered Graphical Passwords. The project was initially developed as a joint R&D Final Degree Project at UPC (see below) and Safelayer company, to become a product of the latter.
-
-- Developed iPhone application as the client. Developed with `Objective-C`, `Cocoa Touch Framework`, `Xcode`.
-- Built `Grails` (Groovy on Rails) application as the server. Used `Groovy`, `Java`, `ant`, `Maven`, `SVN`, `MySQL`, `ExtJS` (Sencha), `Web Services`.
+- Developed data layer in SQL and business logic in a `COM+` component.
+- Developed web pages using `ASP`, `HTML`, `CSS` and `VBScript`.
