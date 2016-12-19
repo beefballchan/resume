@@ -7,11 +7,11 @@ Led the technical directions of a customer facing product with a team of 13 mult
 
 - **Designed and architected solutions** from product features, testing framework to continuous deployment pipeline, and system monitoring. Main languages used are `Java`, `Scala`, `JavaScript`, `HTML` and `CSS`
 - **Reviewed design and code** for changes made by other team members and provided guidance to ensure good practices are followed.
-- **Initiated directions** to improve and optimize the stability and efficiency of the system. E.g. Improved sandbox setup using `docker`, `feature testing` over `junit` test, and keep compliant with the latest company infrastructure.
+- **Initiated directions** to improve and optimize the stability and efficiency of the system, e.g. Improved sandbox setup using `docker`, `feature testing` over `junit` test, and keep compliant with the latest company infrastructure.
 - **Coached and mentored team members** to be engineers with ownership, confidence and autonomous. **Empowered members** by sharing knowledges and allowing rooms for mistakes.
-- **Support live-site issues** on a `AWS` cloud backed stack by investigating through the `statsd` and `collectd` metrics and `splunk` logs, and by collaborating with other teams for any network/infrastructure related issues.
+- **Support live-site issues** on an `AWS` cloud backed stack by investigating through the `statsd` and `collectd` metrics and `splunk` logs, and by collaborating with other teams for any network/infrastructure related issues.
 - **Coached and evangelized engineers** from within and outside of the team to practice Read-By-Refactoring skill to improve Expedia wide code quality.
-- Designed, coded and support **2 tools for Expedia wide engineering team**. They are a `NodeJs` tool to monitor metrics of company standard application and a `Java` library to manage external API services like Hystrix.
+- Designed, coded and supported **2 tools for Expedia wide engineering team**. They are a `NodeJs` tool to monitor metrics of company standard application and a `Java` library to manage external API services like Hystrix.
 
 ### **Software Engineer II** at **Expedia** in Seattle, Oct 2008 - Mar 2015
 ####
@@ -19,9 +19,9 @@ Led the technical directions of a customer facing product with a team of 13 mult
 Worked in 3 different teams over 6+ years to earn a broad experience to solve different types of problems in different domains.
 
 - Developed and shipped **high-traffic and highly-available products** including an ads management system, e-commerce website [AirAsiaGo](https://www.airasiago.com) and tens of product features in all Expedia websites.
-- **Developed, tested and shipped** cross-browser, responsive, retina-ready features and modules built with `HTML5`, `JavaScript` - `jQuery`, etc - `CSS3 (LESS)`, `SVG`, `sprites`, etc. on top of a `Spring (Java)` back-end.
-- Built and support deployment pipeline to deploy the stack to the `AWS` cloud using `cloud formation template` and `chef` script.
-- Migrated and support a company wide **ad serving system** from `doubleClick` to `google ads` platform.
+- **Developed, tested and shipped** cross-browser, responsive, retina-ready features and modules built with `HTML5`, `JavaScript` - `jQuery` - `CSS3 (LESS)`, `SVG`, `sprites`, etc. on top of a `Spring (Java)` back-end.
+- Built and supported deployment pipeline to deploy the stack to the `AWS` cloud using `cloud formation template` and `chef` script.
+- Migrated and supported a company wide **ad serving system** from `doubleClick` to `google ads` platform.
 
 ### **Contract Software Engineer in Test** at **Microsoft** in Seattle, Aug 2007 - Aug 2008
 #### Microsoft is the world's leading producer of computer software.
