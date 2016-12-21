@@ -83,7 +83,9 @@ gulp.task('pdf', ['build:inline'], () =>
   .pipe(pdf({
     border: {
       top: '10mm',
-      bottom: '6mm',
+      bottom: '10mm',
+      left: '10mm',
+      right: '10mm',
     },
   }))
   .pipe(gulp.dest('dist'))
