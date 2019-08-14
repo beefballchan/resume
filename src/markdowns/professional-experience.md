@@ -1,6 +1,14 @@
 ## Professional Experience
 
-### **Senior Software Engineer** at **Expedia** in Seattle, Mar 2015 - present
+### **Senior Software Engineer** at **Convoy** in Seattle May 2017 - present
+#### Convoy is a Seattle based trucking startup with valuation over 1 billion dollar
+
+- **Designed and architected platform and libraries** to increase productivity of the engineering team. Example projects include graphql gateway with `Apollo server` and authentication/authorization solutions to integrate with `Okta`.
+- **Owned and defined Graphql platform** by coming up with roadmap and vision of the graphql development that can help the company to scale in the next 2-5 years and by executing the plan within a team of 2.
+- **Coached and mentor teammate** by hosting graphql best practices working group to define schema design best practices and graphql new hire training. Also hosted diversity meetings to facilitate related discussions for both product and engineering team.
+- **Supprt live site issues** on all the infrastructure within AWS, deployment pipeline, graphql gateway and authorization service.
+
+### **Senior Software Engineer** at **Expedia** in Seattle, Mar 2015 - May 2017
 #### Expedia is the world's largest Online Travel Agent (OTA).
 
 Led the technical directions of a customer facing product with a team of 13 multi-location engineers.
